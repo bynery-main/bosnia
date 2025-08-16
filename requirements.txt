@@ -1,0 +1,4 @@
+elevenlabs==1.0.5
+deep-translator
+speechrecognition
+pyaudio
